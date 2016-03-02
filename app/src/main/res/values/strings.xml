@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MusicWave</string>
+    <string name="action_settings">Settings</string>
+    <string name="content">
+        音乐可视化频谱测试: 采用Renderer方式绘图: 步骤:\n
+
+    </string>
+</resources>
